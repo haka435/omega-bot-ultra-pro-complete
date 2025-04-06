@@ -1,29 +1,14 @@
-# 📈 Omega Bot Ultra Pro COMPLETE
+# 📈 Omega Bot Ultra Pro – Final Version
 
-Eine interaktive KI-gestützte Daytrading-App mit Realtime-Signalen auf Basis von RSI, MACD, Bollinger Bands, Volumen-Spikes, Trendfilter, Social Media Sentiment & mehr.
+Ein interaktives Finanz-Dashboard für Daytrading mit Realtime-Signalen, Strategievergleich, Sentimentanalyse und mehr.
 
-## ✅ Features
-
-- RSI + MACD + Volumen-Analyse
+## Features
+- RSI + MACD + Volumen-Spike
+- Trendanalyse (EMA)
 - Bollinger-Bands Breakouts
-- Trendfilter über EMA
-- Volumen-Spike-Erkennung
-- 📉 Futures-Filter (S&P500, Gold)
-- 💬 Social Sentiment von Reddit/Twitter
-- Echtzeitcharts mit Plotly
-- Erfolgswahrscheinlichkeit für T1–T4
-- Automatische Markterkennung (offen/geschlossen)
+- Sentiment: Reddit, Twitter
+- S&P500-Futures Analyse
+- Backtesting & Strategievergleich
+- Marktstatus (geöffnet/geschlossen)
 
-## 🚀 Starten (lokal)
-
-```bash
-pip install -r requirements.txt
-streamlit run src/omega_dashboard_clean.py
-```
-
-## 🌐 Online-Version (Streamlit Cloud)
-
-1. Repository hochladen auf GitHub
-2. Gehe zu https://streamlit.io/cloud
-3. Wähle Repo + Datei: `src/omega_dashboard_clean.py`
-4. Deployen 🚀
+## Start (lokal)
