@@ -1,9 +1,5 @@
 streamlit
 yfinance
 pandas
-plotly
 numpy
-beautifulsoup4
-requests
-tweepy
-praw
+plotly
